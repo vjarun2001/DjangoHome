@@ -1,0 +1,4 @@
+MYSQL connect with Django:
+
+pip install mysqlclient
+create database in mysql 
